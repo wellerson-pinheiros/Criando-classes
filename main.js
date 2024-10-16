@@ -23,13 +23,6 @@ class Heroi {
     }
 }
 
-
-
-
-
-
-
-
 //criando referencia para a funçao 
 let form = window.document.getElementById("fr1");
 
